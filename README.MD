@@ -5,8 +5,12 @@
 #### Stage "Gettin Started with Python" (7 modules):
 
 ##### [x] Module 4: Expressions and Variables  
-            Exercise: pay_calculator.py: Basic salary calculation multiplying hours by rate.  
-##### [ ] Module 5: Conditionals (Next step)  
+            Exercise 1: basic salary calculation multiplying hours by rate.  
+##### [x] Module 5: Conditionals
+            Exercise 1: salary calculator using conditionals
+            Exercise 2: score grading system using conditionals
+            Exercise 3: celsius to fahrenheit converter with validation
+            Exercise 4: age access validator
 ##### [ ] Module 6: Functions  
 ##### [ ] Module 7: Loops and Iterations 
 ##   

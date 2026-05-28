@@ -11,7 +11,5 @@ if score >= 0.0 and score <= 1.0 :
         print("D")    
     elif score <= 0.6 :
         print("F")
-    else :
-        print("ERROR")
 else :
     print("ERROR")

@@ -6,9 +6,9 @@
 
 #### [x] Module 4: Expressions and Variables  
             Exercise: pay_calculator.py: Basic salary calculation multiplying hours by rate.  
-#### [ ] Module 5: Conditionals (Next step)  
-#### [ ] Module 6: Functions  
-#### [ ] Module 7: Loops and Iterations 
+##### [ ] Module 5: Conditionals (Next step)  
+##### [ ] Module 6: Functions  
+##### [ ] Module 7: Loops and Iterations 
 ##   
 ### Technologies Used:  
 Python 3;  

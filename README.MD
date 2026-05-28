@@ -2,8 +2,8 @@
 ##  
 ### Course Progress:  
 ##  
-#### Stage "Gettin Started with Python" (7 modules)
-##  
+#### Stage "Gettin Started with Python" (7 modules):
+
 #### [x] Module 4: Expressions and Variables  
             Exercise: pay_calculator.py: Basic salary calculation multiplying hours by rate.  
 #### [ ] Module 5: Conditionals (Next step)  

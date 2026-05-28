@@ -1,7 +1,7 @@
 ### Repository dedicated to my studies, exercise solutions and my academic progress as a Python programmer for the Python for Everybody course from the University of Michigan (Coursera).
 ##  
 ### Course Progress:  
-Stage "Gettin Started with Python" (7 modules)  
+#### Stage "Gettin Started with Python" (7 modules)  
 #### [x] Module 4: Expressions and Variables  
             Exercise: pay_calculator.py: Basic salary calculation multiplying hours by rate.  
 #### [ ] Module 5: Conditionals (Next step)  
@@ -9,6 +9,6 @@ Stage "Gettin Started with Python" (7 modules)
 #### [ ] Module 7: Loops and Iterations 
 ##   
 ### Technologies Used:  
-<small> Python 3;  
+Python 3;  
 VS Code;  
 Git / GitHub;  

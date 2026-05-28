@@ -16,6 +16,6 @@
 ##### [ ] Module 7: Loops and Iterations 
 ##   
 ### Technologies Used:  
-###### Python 3;<br>
-###### VS Code;<br>
+###### Python 3;<br>  
+###### VS Code;<br>  
 ###### Git / GitHub;    

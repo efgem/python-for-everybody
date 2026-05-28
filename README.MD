@@ -15,7 +15,7 @@
 ##### [ ] Module 6: Functions  
 ##### [ ] Module 7: Loops and Iterations 
 ##   
-### Technologies Used:  
+#### Technologies Used:  
 <h5>Python 3;<h5>
 <h5>VS Code;<h5>
 <h5>Git / GitHub<h5>    

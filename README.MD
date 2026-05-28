@@ -17,5 +17,5 @@
 ##   
 ### Technologies Used:  
 <h5>Python 3;<h5>
-- VS Code;
-- Git / GitHub;    
+<h5>VS Code;<h5>
+<h5>Git / GitHub<h5>    

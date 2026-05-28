@@ -12,3 +12,5 @@ if fah >= 100 :
     print("Alert, High Temperature: F°", fah)
 else :
     print("Temperature in F°: ", fah)
+
+    

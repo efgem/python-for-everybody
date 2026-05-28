@@ -8,3 +8,5 @@ else:
     pay = 40 * rate
     tpay = ((hrs - 40) * (rate * 1.5)) + pay 
     print("Your Total Pay with Overtime: US$", tpay)
+
+    

@@ -9,6 +9,6 @@ Stage "Gettin Started with Python" (7 modules)
 #### [ ] Module 7: Loops and Iterations 
 ##   
 ### Technologies Used:  
-Python 3;  
+<small> Python 3;  
 VS Code;  
 Git / GitHub;  

@@ -13,6 +13,8 @@
             Project 4: age access validator
             project 5: ATM (Automated Teller Machine) Withdrawal and Limit Validator - final project
 ##### [ ] Module 6: Functions  
+            Project 1: gross pay calculator with overtime function
+            Project 2: delivery fee calculator - final prooject
 ##### [ ] Module 7: Loops and Iterations 
 ##   
 #### Technologies Used:  

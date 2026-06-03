@@ -16,6 +16,8 @@
             Project 1: gross pay calculator with overtime function
             Project 2: delivery fee calculator - final prooject
 ##### [ ] Module 7: Loops and Iterations 
+            Project 1: largest so far using for
+            Project 2: shopping cart totalizer using while
 ##   
 #### Technologies Used:  
 <h5>Python 3;<h5>

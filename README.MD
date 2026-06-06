@@ -22,7 +22,7 @@
             Project 4: 'smaller'
             Project 5: min/max tracker
             Project 6 (Work in progress): class performance analyzer
-:
+
 ##   
 #### Technologies Used:  
 <h5>Python 3;<h5>

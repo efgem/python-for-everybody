@@ -8,7 +8,7 @@ except :
 
 if age < 0 or age > 120 :
     print("Error, Please Enter a Valid Age")
-elif age <18 :
+elif age < 18 :
     print("Access Denied, You are too Young")
 else :
     print("Access Granted, Welcome!")

@@ -16,7 +16,7 @@ while True :
 
     except : 
         print("Please, enter a float/int number.")
-        continue
+        break
 
     if grade < 0  or grade > 100 :
         print("Please enter a grade between 0 and 100.")

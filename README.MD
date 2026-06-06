@@ -18,6 +18,11 @@
 ##### [ ] Module 7: Loops and Iterations 
             Project 1: largest so far using for
             Project 2: shopping cart totalizer using while
+            Project 3: ist analyzer
+            Project 4: 'smaller'
+            Project 5: min/max tracker
+            Project 6 (Work in progress): class performance analyzer
+:
 ##   
 #### Technologies Used:  
 <h5>Python 3;<h5>

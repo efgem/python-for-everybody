@@ -1,6 +1,6 @@
-### ---  Repository dedicated to my studies, projects and my academic progress as a python programmer for the Python for Everybody Specialization course from the University of Michigan (Coursera)  ---
+### ---  _Repository dedicated to my studies, projects and my academic progress as a python programmer for the Python for Everybody Specialization course from the University of Michigan (Coursera)_  ---
 ##  
-### Python for Everybody Specialization Progress ( 5 courses, or subcourses, if you prefer ): 
+### Python for Everybody Specialization Progress ( 5 courses, _or subcourses, if you prefer_ ): 
 ##  
 #### Course 01: "Gettin Started with Python" (7 modules)
 

@@ -1,8 +1,8 @@
-### --- Repository dedicated to my studies, projects and my academic progress as a Python programmer for the Python for Everybody course from the University of Michigan (Coursera) ---
+### ---  Repository dedicated to my studies, projects and my academic progress as a python programmer for the Python for Everybody Specialization course from the University of Michigan (Coursera)  ---
 ##  
-### Course Progress:  
+### Python for Everybody Specialization Progress ( 5 courses, or subcourses, if you prefer ): 
 ##  
-#### Stage 01: "Gettin Started with Python" (7 modules)
+#### Course 01: "Gettin Started with Python" (7 modules)
 
 ##### [x] Module 4: Expressions and Variables  
             Project 1: basic salary calculation multiplying hours by rate.  

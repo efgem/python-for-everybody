@@ -29,6 +29,6 @@
 
 ##   
 #### Technologies Used:  
-<h6>Python 3;<h6>
-<h6>VS Code;<h6>
+<h6>Python 3<h6>
+<h6>VS Code<h6>
 <h6>Git / GitHub<h6>   

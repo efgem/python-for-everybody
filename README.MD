@@ -2,7 +2,7 @@
 ##  
 ### Course Progress:  
 ##  
-#### Stage "Gettin Started with Python" (7 modules):
+#### Stage 01: "Gettin Started with Python" (7 modules)
 
 ##### [x] Module 4: Expressions and Variables  
             Project 1: basic salary calculation multiplying hours by rate.  

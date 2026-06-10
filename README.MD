@@ -1,4 +1,4 @@
-### Repository dedicated to my studies, projects and my academic progress as a Python programmer for the Python for Everybody course from the University of Michigan (Coursera).
+### --- Repository dedicated to my studies, projects and my academic progress as a Python programmer for the Python for Everybody course from the University of Michigan (Coursera) ---
 ##  
 ### Course Progress:  
 ##  
@@ -11,17 +11,21 @@
             Project 2: score grading system using conditionals
             Project 3: celsius to fahrenheit converter with validation
             Project 4: age access validator
-            project 5: ATM (Automated Teller Machine) Withdrawal and Limit Validator - final project
-##### [ ] Module 6: Functions  
+            project 5: ATM (Automated Teller Machine) Withdrawal and Limit Validator
+##### [x] Module 6: Functions  
             Project 1: gross pay calculator with overtime function
-            Project 2: delivery fee calculator - final prooject
-##### [ ] Module 7: Loops and Iterations 
+            Project 2: delivery fee calculator
+            Project 3: temperature converter but using functions
+            Project 4: bmi analyzer
+##### [x] Module 7: Loops and Iterations 
             Project 1: largest so far using for
             Project 2: shopping cart totalizer using while
             Project 3: ist analyzer
             Project 4: 'smaller'
             Project 5: min/max tracker
-            Project 6 (Work in progress): class performance analyzer
+            Project 6: class performance analyzer
+
+##### Course final project "Gettin Started with Python": corporate payroll manager
 
 ##   
 #### Technologies Used:  
